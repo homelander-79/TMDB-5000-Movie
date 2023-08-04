@@ -37,7 +37,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ## Usage 
 
-1. Clone the repository:  ```bash git clone https://github.com/homelander-79/TMDB-5000-Movie.git cd TMDB-5000-Movie`
+1. Clone the repository:  ```bash git clone https://github.com/homelander-79/TMDB-5000-Movie.git cd TMDB-5000-Movie```
 
 2. Run the Jupyter Notebook:
 
