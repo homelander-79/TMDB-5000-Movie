@@ -1,5 +1,4 @@
 # TMDB-5000-Movie
-# TMDB-5000-Movie
 
 ![TMDB Logo](https://www.themoviedb.org/assets/2/v4/logos/v2/blue_long_1-6d8ac0673954ccee2562b4d13e15fc21fd696077988f07272f8f6f6ad14a2e9a.svg)
 
